@@ -1,2 +1,6 @@
-# SkillSwiftHub
-SkillSwiftHub is a dynamic and user-friendly platform designed for seamlessly connecting individuals with specific skills to those seeking their expertise. The hub acts as a central marketplace where users can efficiently discover, book, and engage skilled professionals for various tasks and services.
+#Run the following command in your project directory to install the dependencies:
+This will install all the dependencies listed in your package.json file.
+npm install
+#Run the Development Server: To start the development server and run your React app, use the following command:
+npm run dev
+will launch the Vite development server, and you should see output indicating that the server is running. By default, your app will be accessible at http://localhost:3000.
